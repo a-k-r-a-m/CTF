@@ -42,8 +42,11 @@ http://smashthestack.org/
 [Hacking: The Next Generation][3]
 
 
+[O'Reilly.][4]
+
 
 
 [1]: http://www.amazon.com/Hacking-Ethical-Hackers-Handbook-Edition/dp/0071832386/
 [2]: http://www.amazon.com/Myths-Security-Computer-Industry-Doesnt/dp/0596523025?
 [3]: http://www.amazon.com/Hacking-Next-Generation-Animal-Guide/dp/0596154577
+[4]: http://shop.oreilly.com/category/browse-subjects/security.do
