@@ -58,9 +58,19 @@ http://smashthestack.org/
 [Source Code Auditing I][9]
 [Source Code Auditing II][10]
 
-    
-    
-    
+# রিসোর্স
+
+[Essential C][11] - Programming in C primer 
+
+[TAOSSA Chapter 6: C Language Issues][12] - Strongly recommended reading 
+
+[Integer Overflow][13]
+
+[Wireshark Security][14] - Examples of lots of vulnerablities
+
+[Gera's Insecure Programming by Example][15] - Examples of small vulnerable C programs
+     
+
     
 
 
@@ -74,4 +84,9 @@ http://smashthestack.org/
 [8]: http://clang-analyzer.llvm.org/
 [9]: http://vimeo.com/30001189
 [10]: http://vimeo.com/29702192
+[11]: https://trailofbits.github.io/ctf/vulnerabilities/references/EssentialC.pdf
+[12]: https://trailofbits.github.io/ctf/vulnerabilities/references/Dowd_ch06.pdf
+[13]: http://en.wikipedia.org/wiki/Integer_overflow
+[14]: https://wireshark.org/security/
+[15]: http://community.coresecurity.com/~gera/InsecureProgramming/
 
