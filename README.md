@@ -53,6 +53,10 @@ http://smashthestack.org/
 
 [Clang Static Analyzer][8]
 
+# লেকচার
+
+[Source Code Auditing I][9]
+[Source Code Auditing II][10]
 
     
     
@@ -68,4 +72,6 @@ http://smashthestack.org/
 [6]: http://www.scitools.com/
 [7]: http://meldmerge.org/
 [8]: http://clang-analyzer.llvm.org/
+[9]: http://vimeo.com/30001189
+[10]: http://vimeo.com/29702192
 
