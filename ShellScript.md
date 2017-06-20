@@ -59,3 +59,9 @@ cat file1.txt > file2.txt 	                      -Redirects standard output of a
 cat file1.txt >> file2.txt 	                      -Appends standard output of a file into a new file
 
 cat file1.txt file2.txt file3.txt | sort > test4  -Output of cat command is piped to sort and result will be redirected in a newly created file.
+
+
+** dashed file open = cat ./-
+** spaced file open = cat file\ name\ .txt
+
+# du
