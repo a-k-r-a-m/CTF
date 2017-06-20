@@ -44,3 +44,18 @@ which invokes the less paging utility.
     
     -v (GNU: --show-nonprinting), displays nonprinting characters, except for tabs and the end of line character
 
+cat file1.txt 	                                  -Display contents of file
+
+cat file1.txt file2.txt 	                      -Concatenates 2 text files and will show them in the terminal
+
+cat file1.txt file2.txt > newcombinedfile.txt     -Concatenates 2 text files and writes them to a new file
+
+cat >newfile.txt 	                              -Creates a file called newfile.txt - type the desired input and press CTRL+D to finish. The text will be in file newfile.txt.
+
+cat -n file1.txt file2.txt > newnumberedfile.txt  -Some implementations of cat, with option -n, can also number lines
+
+cat file1.txt > file2.txt 	                      -Redirects standard output of a file into a new file
+
+cat file1.txt >> file2.txt 	                      -Appends standard output of a file into a new file
+
+cat file1.txt file2.txt file3.txt | sort > test4  -Output of cat command is piped to sort and result will be redirected in a newly created file.
