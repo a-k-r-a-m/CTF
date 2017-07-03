@@ -65,3 +65,12 @@ cat file1.txt file2.txt file3.txt | sort > test4  -Output of cat command is pipe
 ** spaced file open = cat file\ name\ .txt
 
 # du
+
+    -a, In addition to the default output, include information for each non-directory entry
+    -c, display a grand total of the disk usage found by the other arguments
+    -d #, the depth at which summing should occur. -d 0 sums at the current level, -d 1 sums at the subdirectory, -d 2 at sub-subdirectories, etc.
+    -H, calculate disk usage for link references specified on the command line
+    -k, show sizes as multiples of 1024 bytes, not 512-byte
+    -L, calculate disk usage for link references anywhere
+    -s, report only the sum of the usage in the current directory, not for each file
+    -x, only traverse files and directories on the device on which the pathname argument is specified. 
